@@ -20,7 +20,6 @@ pkg install python3
 
 python3 -m pip install --upgrade pip
 
-rm -rf cyber_v1.py
 
 git clone https://github.com/IMIN-CYBER/cyber_v1
 
