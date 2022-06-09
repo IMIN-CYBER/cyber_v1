@@ -23,8 +23,10 @@ python3 -m pip install --upgrade pip
 
 git clone https://github.com/IMIN-CYBER/cyber_v1
 
-git pull 
+ls
 
 cd cyber_v1.py
+
+git pull 
 
 python cyber_v1.py
