@@ -1,7 +1,7 @@
 #FREE TOOLS CRACK F4CEBOOK#
 
-#Script Ini Gratis Kontol jgan di perjual belikan Ngentoto...!!
-
+#Script Ini Gratis Kontol jgan di perjual belikan Ngentoto .
+.
 termux-setup-storage
 
 pkg update
