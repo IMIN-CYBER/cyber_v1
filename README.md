@@ -25,7 +25,7 @@ git clone https://github.com/IMIN-CYBER/cyber_v1
 
 ls
 
-cd cyber_v1.py
+cd cyber_v1
 
 git pull 
 
