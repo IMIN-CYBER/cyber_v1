@@ -1,4 +1,3 @@
-# Obfuscated with PyObfuscate
 # https://www.github.com/IMIN-CYBER
 # Time : Sun Jun 12 07:48:59 2022
 # -------------------------------
